@@ -28,13 +28,17 @@ uma IA que te auxilia a escrever códigos (use com responsabilidade).
 
 Vá no canto superior direito do GitHub e clique no '+':
 ![Icone de mais](./Imagens/CriarRepositorio1.png)
+
 Depois, preencha as informações do repositório (Recomendamos deixar nessas configurações, principalmente adicionando o README):
 ![Informações do repositório](./Imagens/CriarRepositorio2.png)
+
 Terminando de preencher as informações e confirmando, seu repositório foi criado!
 Ótimo, agora precisamos colocar o repositório no nosso computador. Para isso, siga a imagem:
 ![Instruções de como baixar o repositório](./Imagens/CriarRepositorio3.png)
+
 E depois, vá no Visual Studio e clique nos botões da imagem para depois colar (Ctrl+V e Enter):
 ![Instruções de copiar o repositório para máquina](./Imagens/CriarRepositorio4.png)
+
 E agora, parabéns! Seu repositório já está na sua máquina. 
 
 ---
