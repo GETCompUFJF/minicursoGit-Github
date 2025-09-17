@@ -15,7 +15,7 @@ Você pode obter o GIT clicando [aqui](https://git-scm.com/downloads).
 
 ## Como criar uma conta no GitHub?
 
-Crie sua conta no site em que está vendo isso. Ele é o GitHub. **FAÇA COM SEU E-MAIL NORMAL** 
+Crie sua conta no site em que está vendo isso. Ele é o GitHub. **FAÇA COM SEU E-MAIL PESSOAL** 
 e com um *nickname* **NORMAL**, nada de "EnzinhoBalaTensa2009", afinal, ele pode ser usado como seu currículo.
 
 Lembre-se que você pode adquirir o [GitHub Estudante](https://docs.github.com/pt/education/about-github-education/github-education-for-students/apply-to-github-education-as-a-student) o que te dá acesso a muitos benefícios como o Github Copilot,
