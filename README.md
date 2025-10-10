@@ -65,3 +65,34 @@ Comece criando um novo arquivo com nome "teste.txt", escreva o que quiser dentro
 
 Agora, note que há ícone de "Branch" na esquerda um pouco destacado.
 ![Ícone de branch com modificações](./Imagens/BranchModificada.png)
+
+Agora, note que na nova aba, todas as suas modificações da última vez que fez um commit, como indicado na imagem:
+**IMPORTANTE**: Lembre-se de escrever algo na mensagem de commit.
+![Imagem das modificações feitas no repositório](./Imagens/CommitTeste.png)
+
+Ao clicar em Commit, você aplicará as suas modificações no repositório local. Note que, nesse estado, as suas modificações não estarão no repositório no site do GitHub, mas estarão no seu computador. Para enviar para o repositório online para, por exemplo, permitir que eu colega acesse suas modificações, clique em Sync Changes
+![Imagem do Sync Changes](./Imagens/SyncChanges.png)
+
+## Branches, o que são, onde vivem, o que comem? Hoje, no GETReporter...
+Branches, tranduzindo, são ramificações. Imagine que em todos os repositórios há uma via principal (a branch main) e nós podemos criar ramificações que são 'cópias' da 'main'. Essas ramificações são formas de alterar diferentes partes do código de forma separada, é como ter um repositório para cada parte do projeto. E isso também permite que cada pessoa altere uma branch sem causar confusão por mexerem na mesma. 
+
+### Criando uma branch
+Você pode criar uma branch facilmente indo no ícone de branches novamente. E indo nessas direções:
+![Instruções de como criar uma branch](./Imagens/CreateBranch.png)
+
+E escreva o nome da branch e dê enter:
+![Local para escrever nome da branch](./Imagens/NomeDaBranch.png)
+
+Ótimo, você acabou de criar sua branch e está nela atualmente. Todas as suas modificações ficarão salvas naquela branch
+
+### E como trocar de branch?
+Bom, digamos que vc quer ver como está o andamento da parte do seu amigo e quer visitar a branch dele. Você pode fazer isso facilmente apenas mudando a branch. Siga esses passos para trocar de branch:
+![Instrução de checkout](./Imagens/Checkout.png)
+
+E clique na branch selecionada com o símbolo de nuvem, o que seleciona a versão online daquela branch. 
+![Instrução de seleção de branch](./Imagens/SelecionarBranch.png)
+
+E pronto, você está agora na branch escolhida.
+
+### Merge: Como juntar duas branches?
+Bom, você e seu amigo terminaram suas partes e precisam juntar agora. Juntar na mão não é uma opção. Existe o merge, que já junta automaticamente as branches. Para isso, vá para a branch que ficará tudo junto e faça:
