@@ -59,5 +59,9 @@ Essa diferenciação acontece porque na sua máquina será somente você, então
 
 ## E o que eu faço agora?
 
-Bom, o espaço para o seu repositório já está arrumado. Agora, precisamos apenas criar código para colocar no repositório
-Comece criando um novo arquivo com nome "teste.txt"
+Bom, o espaço para o seu repositório já está arrumado. Agora, precisamos apenas criar código para colocar no repositório.
+
+Comece criando um novo arquivo com nome "teste.txt", escreva o que quiser dentro dele e salve.
+
+Agora, note que há ícone de "Branch" na esquerda um pouco destacado.
+![Ícone de branch com modificações](./Imagens/BranchModificada.png)
