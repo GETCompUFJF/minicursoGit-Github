@@ -112,3 +112,19 @@ Agora, para aprender como fazer isso, crie um arquivo main.cpp com um "Hello Wor
 Note aqui, que, ao fazer o merge, o Git não pode assumir o que deveria estar escrito na mensagem do cout e por isso é você quem deve definir isso. Algumas vezes isso pode ser simples e outras vezes pode ser algo muito chato de fazer, por isso, tome seu tempo e tente aprender corretamente.
 
 Resolvemos conflitos de merge assim:
+Ao fazer o merge, aparecerá uma mensagem de:
+![Mensagem de aviso de conflito de merge](./Imagens/ConflitoNoCodigo.png)
+
+Clique em Resolver no Merge Editor:
+![Botão de Merge Editor](./Imagens/ResolveInMergeEditor.png)
+
+E aparecerá uma tela em que, na esquerda há as modificações da branch do seu amigo, na direita a sua branch e em baixo o resultado da mudança:
+![Tela do Merge Editor](./Imagens/MerginMainCPP.png)
+
+Nessa tela, escreva ou selecione o que deseja manter e complete o merge. O merge continuará impossibilitado caso ainda tenham conflitos. É necessário resolver todos eles antes de completar. Mas assim que tudo estiver resolvido, clique em:
+![Botão de complete merge](./Imagens/CompleteMerge.png)
+
+
+# Isso é tudo, pessoal!
+
+Bom, espero que tenham gostado. Sigam o GETComp nas redes sociais no @getcomp
