@@ -96,3 +96,19 @@ E pronto, você está agora na branch escolhida.
 
 ### Merge: Como juntar duas branches?
 Bom, você e seu amigo terminaram suas partes e precisam juntar agora. Juntar na mão não é uma opção. Existe o merge, que já junta automaticamente as branches. Para isso, vá para a branch que ficará tudo junto e faça:
+
+![Instruções de Merge](./Imagens/MergePrint.png)
+
+E escolha a branch do seu amigo
+
+![Instruções de seleçãod a branch](./Imagens/SelecionarBranchMerge.png)
+
+E pronto! Se tudo estiver correto, vai juntar perfeitamente.
+
+### E se der problema? O famoso problema de merge?
+Bom, como isso acontece? Normalmente, acontece por vocês mexerem na mesma parte de código, alterando coisas diferentes.
+
+Agora, para aprender como fazer isso, crie um arquivo main.cpp com um "Hello World" simples. Crie 2 outras branches derivadas da main e, em cada uma, altere a mensagem dentro do cout para coisas diferentes.
+Note aqui, que, ao fazer o merge, o Git não pode assumir o que deveria estar escrito na mensagem do cout e por isso é você quem deve definir isso. Algumas vezes isso pode ser simples e outras vezes pode ser algo muito chato de fazer, por isso, tome seu tempo e tente aprender corretamente.
+
+Resolvemos conflitos de merge assim:
